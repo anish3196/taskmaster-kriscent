@@ -11,5 +11,7 @@
 
 # for project start:- 1. run 'npm run dev ' for frontend view   2. run "php artisan serve" for backend apis   run both in diffrent terminals.
 
+# for mail sending on due date i created a autoduereminder command and register it in kernel.
+
 
 
