@@ -1,0 +1,17 @@
+# Kriscent task
+
+# project requirement :- php version 8 or greater and node verion 16 or greater  
+
+# for project setup :-
+
+# 1. run commands :-  composer install and npm install 
+
+# after installing run command "php artisan migrate" for inserting tables in  database.
+
+# add all details in environment variable file database credntials, email and password which will be used for email sending.
+
+
+# for project start:- 1. run 'npm run dev ' for frontend view   2. run "php artisan serve" for backend apis   run both in diffrent terminals.
+
+
+
