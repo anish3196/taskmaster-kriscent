@@ -36,7 +36,7 @@
                         <tr>
                             <th>#</th>
                             <th>Tittle</th>
-                            <th>Date</th>
+                            <th>Due date</th>
                             <th>STATUS</th>
                             <th>ACTION</th>
                         </tr>
