@@ -20,11 +20,11 @@
                         <textarea   v-model="data.desc"  class="form-control" required></textarea>
                     </div>
                     <div class="input-field">
-                        <label>Link</label>
+                        <label>Due date</label>
                             <input type="date" class="form-control"  v-model="data.due_date" required>
                     </div>
                     <div class="input-field">
-                        <label>Link</label>
+                        <label>status</label>
                             <select class="form-control" style="background-color: transparent;" v-model="data.status" required>
                                 <option value="" selected disabled>Select status</option>
                                 <option value="Pending">Pending</option>
