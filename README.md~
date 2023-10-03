@@ -13,5 +13,7 @@
 
 # for mail sending on due date i created a autoduereminder command and register it in kernel.
 
+# frontend made with vuejs path for files 'resources/js'
+
 
 
